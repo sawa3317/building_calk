@@ -27,15 +27,15 @@ export const typeHome = [
 export const typeRoof = [
   {
     label: 'Однаскатная',
-    value: 100,
+    value: 1,
   },
   {
     label: 'Двухскатная',
-    value: 200,
+    value: 2,
   },
   {
     label: 'Плоская',
-    value: 50,
+    value: 0.5,
   },
 ];
 
